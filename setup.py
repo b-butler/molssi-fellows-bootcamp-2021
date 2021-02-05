@@ -21,7 +21,7 @@ except:
 
 setup(
     # Self-descriptive entries which should always be present
-    name='molecool',
+    name='molecool-pypi-dist-practice-butler',
     author='Brandon Butler',
     author_email='butlerbr@umich.edu',
     description=short_description[0],
